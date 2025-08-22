@@ -1,1 +1,2 @@
 # first-repo
+こんにちは GitHub!
